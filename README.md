@@ -2,8 +2,8 @@
 
 # **DA5401 A8: Ensemble Learning for Complex Regression – Bike Share Demand Prediction**
 
-# Name: Pragati L  
-# Roll No: CE22B089
+### Name: Pragati L  
+### Roll No: CE22B089
 
 
 ## **Overview**
@@ -88,5 +88,3 @@ This project explores three primary ensemble learning techniques—**Bagging, Bo
   3. Run all cells sequentially.
   4. View plots, RMSE results, and comparative analysis.
 
-
-Do you want me to do that?
